@@ -1,37 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1cbe290-76b0-478a-bef2-fc7b3af89fc2" name="Changes" comment="" />
+    <list default="true" id="f1cbe290-76b0-478a-bef2-fc7b3af89fc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ReadingNumberTillASum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2/question34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/question34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/CreditLimitCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/CreditLimitCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/GasMillage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/GasMillage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/RightAngledTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/RightAngledTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/SaleCommissionCalculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/SaleCommissionCalculator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/TabularOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/TaxCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/TwoLargeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/TwoLargeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/ValidateInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/ValidateInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/ClockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/ClockApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/HeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/HeartRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/HeartRatesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/HeartRatesApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/PetrolApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/PetrolApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/carApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/carApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/questionFiveToTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/questionFiveToTen.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2h64U48nrAwi21LRq4VIeWA4TkO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CreditLimitCalculator.executor": "Run",
+    "Application.GasMileageTracker.executor": "Run",
+    "Application.GasMillage.executor": "Run",
+    "Application.GasMillage2.executor": "Run",
+    "Application.HeartRatesApp.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.PetrolApp.executor": "Run",
+    "Application.ReadingNumberTillASum.executor": "Run",
+    "Application.RightAngledTriangle.executor": "Run",
+    "Application.SaleCommissionCalculator.executor": "Run",
+    "Application.SaleCommissionCalculator2.executor": "Run",
+    "Application.TabularOutput.executor": "Run",
+    "Application.TaxCalculator.executor": "Run",
+    "Application.TwoLargeNumbers.executor": "Run",
+    "Application.ValidateInput.executor": "Run",
+    "Application.carApp.executor": "Run",
+    "Application.question15.executor": "Run",
+    "Application.question16.executor": "Run",
+    "Application.question17.executor": "Run",
+    "Application.question18.executor": "Run",
+    "Application.question19.executor": "Run",
+    "Application.question20.executor": "Run",
+    "Application.question21.executor": "Run",
+    "Application.question22.executor": "Run",
+    "Application.question23.executor": "Run",
+    "Application.question24.executor": "Run",
+    "Application.question25.executor": "Run",
+    "Application.question26.executor": "Run",
+    "Application.question27.executor": "Run",
+    "Application.question28.executor": "Run",
+    "Application.question29.executor": "Run",
+    "Application.question30.executor": "Run",
+    "Application.question31.executor": "Run",
+    "Application.question32.executor": "Run",
+    "Application.question33.executor": "Run",
+    "Application.question34.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/java-beginning/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.ReadingNumberTillASum">
+    <configuration name="ReadingNumberTillASum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ReadingNumberTillASum" />
+      <module name="java-beginning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RightAngledTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.RightAngledTriangle" />
+      <module name="java-beginning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.TabularOutput" />
+      <module name="java-beginning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoLargeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.TwoLargeNumbers" />
+      <module name="java-beginning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ValidateInput" />
+      <module name="java-beginning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadingNumberTillASum" />
+        <item itemvalue="Application.RightAngledTriangle" />
+        <item itemvalue="Application.ValidateInput" />
+        <item itemvalue="Application.TwoLargeNumbers" />
+        <item itemvalue="Application.TabularOutput" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,12 +219,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716901228911</updated>
-      <workItem from="1716901230500" duration="62000" />
+      <workItem from="1716901230500" duration="30661000" />
+      <workItem from="1716976145967" duration="7297000" />
+      <workItem from="1716993877349" duration="23644000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
@@ -65,6 +241,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Chapter2/question32.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

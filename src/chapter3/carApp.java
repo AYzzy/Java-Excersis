@@ -1,6 +1,6 @@
 package chapter3;
 
-public class question11 {
+public class carApp {
 
     public static void main (String[] args) {
 
@@ -11,7 +11,7 @@ public class question11 {
         double initialPrice2 = car2.getPrice() ;
 
         double newPrice1 = initialPrice1 - (0.05 * initialPrice1) ;
-        double newPrice2 = initialPrice2 - (0.05 * initialPrice2) ;
+        double newPrice2 = initialPrice2 - (0.07 * initialPrice2) ;
 
         System.out.printf("The price of first car is %.1f%n", initialPrice1) ;
         System.out.printf("The price of second car is %.1f%n%n", initialPrice2) ;
